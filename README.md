@@ -49,3 +49,9 @@ Default output file: dotoip.txt
 Contains unique IPs only
 
 Script prints total count at the end
+
+## ☕ Support & Connect
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gd_discov3r)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/gd_discov3r)
+
