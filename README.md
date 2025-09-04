@@ -39,3 +39,13 @@ Custom resolvers & concurrency
 
 Rate limit requests
 ./dotoip.sh -l domains.txt -R 500
+
+```
+
+📂 Output
+
+Default output file: dotoip.txt
+
+Contains unique IPs only
+
+Script prints total count at the end
