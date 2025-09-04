@@ -14,7 +14,7 @@ This wrapper runs dnsx in response-only mode and writes unique results to `dotoi
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/<yourname>/dotoip.git](https://github.com/Mid8hunter/DomaintoIP.git
+git clone https://github.com/Mid8hunter/DomaintoIP.git
 cd dotoip
 chmod +x dotoip.sh
 
